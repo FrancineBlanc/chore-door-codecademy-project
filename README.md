@@ -1,0 +1,3 @@
+# chore-door-codecademy-project
+This is a single page website which displays a fully functional game. The object of the game is to avoid clicking on the door behind which the ChoreBot is hiding. If the player successfully clicks on two doors which do not have the ChoreBot behind them, they win the game and their streak will accrue by 1. The player's best streak will be stored and visible on the site until the page is refreshed. 
+This code demonstrates the interplay between HTML, CSS and JavaScript in the creation of dynamic websites. 
